@@ -1,0 +1,24 @@
+Maps:
+https://www.youtube.com/watch?v=5stSk1LOPwk&feature=youtu.be				Time: 1:01:28
+
+Generic Methods:
+https://www.youtube.com/watch?v=J6B_qauxfuc						Time: 4:39
+
+Intro to Collections
+https://www.youtube.com/watch?v=jU5ACV5MucM&feature=relmfu				Time: 7:16
+
+Collection Methods - Sort
+https://www.youtube.com/watch?v=1QhS0aTiFhQ						Time: 5:25
+
+Collection Methods - Reverse and Copy				
+https://www.youtube.com/watch?v=CfJCamxV3NQ&feature=relmfu				Time: 7:22
+
+Graph Traversal - Depth First Search
+https://www.youtube.com/watch?v=iaBEKo5sM7w						Time: 3:46
+
+Graph Traversal - Depth First and Breadth First
+https://www.youtube.com/watch?v=bIA8HEEUxZI						Time: 10:08
+
+Memory Management and Garbage Collection
+https://www.youtube.com/watch?v=5jubCfyuqvA						Time: 5:44
+
